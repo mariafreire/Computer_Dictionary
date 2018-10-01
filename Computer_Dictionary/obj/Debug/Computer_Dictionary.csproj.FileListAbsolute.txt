@@ -1,0 +1,10 @@
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\bin\Debug\FOLDOC.accdb
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\bin\Debug\Computer_Dictionary.exe.config
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\bin\Debug\Computer_Dictionary.exe
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\bin\Debug\Computer_Dictionary.pdb
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\obj\Debug\Computer_Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\obj\Debug\Computer_Dictionary.Form1.resources
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\obj\Debug\Computer_Dictionary.Properties.Resources.resources
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\obj\Debug\Computer_Dictionary.csproj.GenerateResource.Cache
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\obj\Debug\Computer_Dictionary.exe
+C:\Users\Maria\Documents\CSharpProjects\Computer_Dictionary\Computer_Dictionary\obj\Debug\Computer_Dictionary.pdb
